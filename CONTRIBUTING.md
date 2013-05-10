@@ -1,5 +1,5 @@
 ﻿## Contributing
-♥ **ali.md/cdn** and want to get involved ?  
+♥ **ali.md/libs** and want to get involved ?  
 Thanks! There are plenty of ways you can help.  
 
 ### Report issues
@@ -30,10 +30,10 @@ Please follow this process; it's the best way to get your work included in the p
 1. [Fork](http://help.github.com/fork-a-repo/) the project.
 
 2. Clone your fork (`git clone
-   https://github.com/<your-username>/cdn.git`).
+   https://github.com/<your-username>/libs.git`).
 
 3. Add an `upstream` remote (`git remote add upstream
-   https://github.com/AliMD/cdn.git`).
+   https://github.com/AliMD/libs.git`).
 
 4. Get the latest changes from upstream (e.g. `git pull upstream master`).
 
