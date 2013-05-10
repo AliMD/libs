@@ -1,4 +1,4 @@
-# ali.md/cdn - Public CDN
+# ali.md/libs - Public CDN
 Free hosting all open web projects for Web Developers in one place.
 
 ## A 1Devs Project
