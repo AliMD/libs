@@ -1,0 +1,96 @@
+/* 
+ * 1Grids v3
+ * A 1Devs Professional CSS Grid System.
+ *
+ * http://ali.md/1Grids
+ * License: 1Grids by Ali Mihandoost is licensed under a Creative Commons Attribution 3.0 Unported License.
+ */
+.container{width:auto}
+@media all and (min-width: 768px){.container{width:750px}
+}@media all and (min-width: 992px){.container{width:970px}
+}@media all and (min-width: 1200px){.container{width:1170px}
+}.left{float:left}
+.right{float:right}
+.row,.box{*zoom:1;}
+.row:before,.box:before,.row:after,.box:after{content:" ";display:table}
+.row:after,.box:after{clear:both}
+.box{min-height:1px}
+input,textarea,.box,.bdbox{box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box}
+.mla,.mlra,.mrla{margin-left:auto !important}
+.mra,.mlra,.mrla{margin-right:auto !important}
+.block{display:block}
+.table{display:table}
+.overhidden{overflow:hidden}
+.overscroll{overflow:scroll}
+.relative{position:relative}
+.absolute{position:absolute}
+.fixed{position:fixed}
+.imgrep{background-color:transparent;border:0;overflow:hidden;*text-indent:-9999px}
+.imgrep:before{content:' ';display:block;width:0;height:100%}
+.pd{padding-left:.83333rem;padding-right:.83333rem}
+.tal{text-align:left}
+.tar{text-align:right}
+.tac{text-align:center}
+.taj{text-align:justify}
+.upper{text-transform:uppercase}
+.lower{text-transform:lowercase}
+.capital{text-transform:capitalize}
+.rtl{direction:rtl}
+.ltr{direction:ltr}
+.hidden{display:none !important;visibility:hidden}
+.visuallyhidden{border:0;clip:rect(0 0 0 0);width:1px;height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute}
+.visuallyhidden.focusable:active,.visuallyhidden.focusable:focus{clip:auto;height:auto;margin:0;overflow:visible;position:static;width:auto}
+.invisible{visibility:hidden}
+.w0{width:0%}
+.w1{width:8.33333%}
+.w2{width:16.66667%}
+.w3{width:25%}
+.w4{width:33.33333%}
+.w5{width:41.66667%}
+.w6{width:50%}
+.w7{width:58.33333%}
+.w8{width:66.66667%}
+.w9{width:75%}
+.w10{width:83.33333%}
+.w11{width:91.66667%}
+.w12{width:100%}
+@media all and (min-width: 768px){.ws0{width:0%}
+.ws1{width:8.33333%}
+.ws2{width:16.66667%}
+.ws3{width:25%}
+.ws4{width:33.33333%}
+.ws5{width:41.66667%}
+.ws6{width:50%}
+.ws7{width:58.33333%}
+.ws8{width:66.66667%}
+.ws9{width:75%}
+.ws10{width:83.33333%}
+.ws11{width:91.66667%}
+.ws12{width:100%}
+}@media all and (min-width: 992px){.wm0{width:0%}
+.wm1{width:8.33333%}
+.wm2{width:16.66667%}
+.wm3{width:25%}
+.wm4{width:33.33333%}
+.wm5{width:41.66667%}
+.wm6{width:50%}
+.wm7{width:58.33333%}
+.wm8{width:66.66667%}
+.wm9{width:75%}
+.wm10{width:83.33333%}
+.wm11{width:91.66667%}
+.wm12{width:100%}
+}@media all and (min-width: 1200px){.wl0{width:0%}
+.wl1{width:8.33333%}
+.wl2{width:16.66667%}
+.wl3{width:25%}
+.wl4{width:33.33333%}
+.wl5{width:41.66667%}
+.wl6{width:50%}
+.wl7{width:58.33333%}
+.wl8{width:66.66667%}
+.wl9{width:75%}
+.wl10{width:83.33333%}
+.wl11{width:91.66667%}
+.wl12{width:100%}
+}.wx{width:9999px}
